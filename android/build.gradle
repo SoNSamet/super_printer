@@ -1,7 +1,7 @@
 
 plugins {
     id "com.android.library"
-    id("com.android.application") version "8.6.0" apply false
+    id("com.android.application") version "8.7.0" apply false
 }
 
 group 'com.aljazary.super_printer'
